@@ -41,7 +41,7 @@ const Home = () => {
           <span className="bg-clip-text text-transparent bg-gradient-to-r from-blue-600 to-indigo-600">
             How Kitto AI Helps You
           </span>
-          <div className="absolute w-24 h-1 bg-gradient-to-r from-blue-600 to-indigo-600 bottom-2 left-1/2 transform -translate-x-1/2 rounded-full mt-2"></div>
+          <div className="absolute w-24 h-1 bg-gradient-to-r from-blue-600 to-indigo-600 bottom--2 left-1/2 transform -translate-x-1/2 rounded-full mt-2"></div>
         </h2>
         <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
           <Card className="bg-gradient-learn card-hover-effect border-0 shadow-md overflow-hidden">
@@ -173,7 +173,7 @@ const Home = () => {
           <span className="bg-clip-text text-transparent bg-gradient-to-r from-blue-600 to-indigo-600">
             How It Works
           </span>
-          <div className="absolute w-24 h-1 bg-gradient-to-r from-blue-600 to-indigo-600 bottom-0 left-1/2 transform -translate-x-1/2 rounded-full mt-2"></div>
+          <div className="absolute w-24 h-1 bg-gradient-to-r from-blue-600 to-indigo-600 bottom--2 left-1/2 transform -translate-x-1/2 rounded-full mt-2"></div>
         </h2>
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8">
           <div className="text-center relative">
